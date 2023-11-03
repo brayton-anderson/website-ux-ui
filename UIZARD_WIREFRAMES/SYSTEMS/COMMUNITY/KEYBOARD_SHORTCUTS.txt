@@ -1,0 +1,42 @@
+WEBSITE: https://community.uizard.io/home
+EVENTS LINK: https://crowdcast.io/@uizard
+
+BASICS
+Open search     [ctrl   K]
+Open keyboard shortcuts     [ctrl   /]
+Toggle light/dark mode    [ctrl    alt   U]
+Open notifications    [alt   N]
+Open direct messages     [alt    M]
+Open chat threads    [alt   T]
+Customize notifications    [alt    C   N]
+Edit your profile    [alt    G    P]
+View your profile   [alt    G   V]
+Write a post   [ctrl   shift    P]
+
+
+
+COMMUNITY SWITCHING
+A specific community    [alt   G   1-9]
+
+
+
+NAVIGATION
+Home feed   [alt   G   H]
+Course directory  [alt   G   C]
+
+
+TEXT EDITOR
+Slash commands   [/]
+Emoji autocomplete   [:]
+Mentions autocomplete   [@]
+Copy   [ctrl   C]
+Cut     [ctrl    X]
+Paste    [ctrl    V]
+Paste without formatting  [ctrl   shift   V]
+Undo    [ctrl   Z]
+Redo  [ctrl  shift  Z]
+Add a line break  [shift  ↵]
+Bold    [ctrl  B]
+Italic  [ctrl  I]
+Underline    [ctrl  U]
+Strikethrough    [ctrl   shift   X]
